@@ -1,0 +1,2 @@
+# CWMSG
+Custom Whitelist Message
